@@ -1,11 +1,1 @@
-# H1 Header
-
-## H2 Header
-
-### H3 Header
-
-#### H4 Header
-
-##### H5 Header
-
-###### H6 Header
+![Image of Dog](https://ghk.h-cdn.co/assets/17/30/1500925839-golden-retriever-puppy.jpg)
